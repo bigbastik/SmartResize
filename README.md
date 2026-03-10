@@ -1,8 +1,8 @@
-\# SmartResize – Portable Image Resizer
+# SmartResize – Portable Image Resizer
 
 
 
-\*\*SmartResize\*\* è un tool Windows portable per ridimensionare immagini con GUI intuitiva.  
+**SmartResize** è un tool Windows portable per ridimensionare immagini con GUI intuitiva.  
 
 Non richiede Python o librerie esterne: basta scaricare l’exe e usarlo.
 
@@ -12,15 +12,15 @@ Non richiede Python o librerie esterne: basta scaricare l’exe e usarlo.
 
 
 
-\## Come usare
+## Come usare
 
 
 
-1\. Scarica `SmartResize.exe` dalla cartella `dist/` o dal link GitHub.
+1. Scarica `SmartResize.exe` dalla cartella `dist/` o dal link GitHub.
 
-2\. Esegui il file (`SmartResize.exe`).
+2. Esegui il file (`SmartResize.exe`).
 
-3\. Nella finestra:
+3. Nella finestra:
 
 &nbsp;  - Clicca \*\*Sfoglia immagini…\*\* per selezionare una o più immagini.
 
@@ -36,25 +36,21 @@ Non richiede Python o librerie esterne: basta scaricare l’exe e usarlo.
 
 
 
-\## Note
+## Note
 
 
 
-\- Tutte le immagini ridimensionate vengono salvate nella cartella di destinazione scelta.
+- Tutte le immagini ridimensionate vengono salvate nella cartella di destinazione scelta.
 
-\- Il logo e l’icona della finestra sono inclusi direttamente nell’exe.
+- Il logo e l’icona della finestra sono inclusi direttamente nell’exe.
 
-\- Portable: puoi copiare `SmartResize.exe` su qualsiasi PC Windows e usarlo subito.
-
-
-
----
+- Portable: puoi copiare `SmartResize.exe` su qualsiasi PC Windows e usarlo subito.
 
 
-
-\## Licenza
+## Licenza
 
 
 
 Questo progetto è rilasciato sotto \[MIT License](LICENSE)
+
 
