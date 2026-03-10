@@ -16,7 +16,7 @@ Non richiede Python o librerie esterne: basta scaricare l’exe e usarlo.
 
 
 
-1. Scarica `SmartResize.exe` dalla cartella `dist/` o dal link GitHub.
+1. Scarica `SmartResize.exe` dalla cartella `release/` o dal link GitHub.
 
 2. Esegui il file (`SmartResize.exe`).
 
@@ -52,5 +52,6 @@ Non richiede Python o librerie esterne: basta scaricare l’exe e usarlo.
 
 
 Questo progetto è rilasciato sotto \[MIT License](LICENSE)
+
 
 
